@@ -1,4 +1,36 @@
-h1{
+img.work-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    width: 100%;
+    height: auto;
+}
+
+
+img.hobby-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+}
+
+h1 {
     color: darkblue;
     text-align: center;
+}
+
+h2 {
+    font-size: 1rem;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+h3 {
+    font-size: 0.9rem;
+    text-align: right;
+    margin-top: 2em;
 }

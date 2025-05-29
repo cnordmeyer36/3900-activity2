@@ -34,3 +34,11 @@ h3 {
     text-align: right;
     margin-top: 2em;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    line-height: 1.6;
+}
